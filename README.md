@@ -10,7 +10,7 @@ Example:
 
 
 Installation:
-Run the script with any user you wish change the prompt for.
+Run the script from any location with any user you wish change the prompt for.
 ```
 python3 customprompt.py
 ```

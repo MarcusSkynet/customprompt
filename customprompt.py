@@ -1,7 +1,9 @@
 import os
 
-# Define the custom symbol (Elder Futhark rune "ᛟ") as a Unicode character
-custom_symbol = "\u16DF"
+# Define the custom symbol instead of @ as a Unicode character )
+custom_symbol = "@"
+# Example for Elder Futhark rune "ᛟ"
+# custom_symbol = "\u16DF" 
 
 # Define a function to customize the Bash prompt
 def customize_bash_prompt():

@@ -6,6 +6,8 @@ Example:
 ┌──(user@hostname)-[~]
 └─$
 ```
+![alt text](https://github.com/MarcusSkynet/customprompt/blob/main/customprompt.png?raw=true)
+
 
 Installation:
 Run the script with any user you wish change the prompt for.

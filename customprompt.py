@@ -1,7 +1,7 @@
 import os
 
 # Define the custom symbol instead of @ as a Unicode character )
-custom_symbol = "@"
+custom_symbol = @
 # Example for Elder Futhark rune "ᛟ"
 # custom_symbol = "\u16DF" 
 
